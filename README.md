@@ -4,4 +4,4 @@
 -------------------------
 ![alt text][logo]
 
-[logo]: (https://github.com/Reptoshi/BulletHellProject/blob/master/src/images/Ship.png)
+[logo]: https://github.com/Reptoshi/BulletHellProject/blob/master/src/images/Ship.png
